@@ -1,6 +1,7 @@
 # 👋 Hola, mi nombre es Loreto Vivar Azócar 🌱   
 
-![imagen](https://github.com/user-attachments/assets/d192b7cb-8f4c-4312-8c68-5c5f4d0c2500)
+<img width="1439" alt="Readme" src="https://github.com/user-attachments/assets/056fd316-e19b-4463-b1cd-aa156c96d7fa" />
+
 
 
 ### Presentación:
